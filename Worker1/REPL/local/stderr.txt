@@ -1,0 +1,337 @@
+
+
+START 2020-07-08T17:59:14.842
+
+`julia repl.jl`
+
+
+
+END 2020-07-08T17:59:15.32
+
+
+START 2020-07-08T18:00:54.753
+
+`julia repl.jl`
+
+
+
+END 2020-07-08T18:00:55.24
+
+
+START 2020-07-08T19:21:29.123
+
+`julia repl.jl`
+
+
+
+END 2020-07-08T19:21:29.606
+
+
+START 2020-07-08T21:11:25.884
+
+`julia repl.jl`
+
+
+
+END 2020-07-08T21:11:26.366
+
+
+START 2020-07-09T16:49:44.056
+
+`julia repl.jl`
+
+top: bad pid '$(pgrep'
+┌ Warning: special characters "#{}()[]<>|&*?~;" should now be quoted in commands
+│   caller = #shell_parse#351(::String, ::Function, ::String, ::Bool) at shell.jl:100
+└ @ Base ./shell.jl:100
+ERROR: LoadError: failed process: Process(`top -c -p '$(pgrep' -d, -f 'julia)'`, ProcessExited(1)) [1]
+Stacktrace:
+ [1] error(::String, ::Base.Process, ::String, ::Int64, ::String) at ./error.jl:42
+ [2] pipeline_error at ./process.jl:785 [inlined]
+ [3] #run#515(::Bool, ::Function, ::Cmd) at ./process.jl:726
+ [4] run(::Cmd) at ./process.jl:724
+ [5] top-level scope at none:0
+ [6] include at ./boot.jl:326 [inlined]
+ [7] include_relative(::Module, ::String) at ./loading.jl:1038
+ [8] include(::Module, ::String) at ./sysimg.jl:29
+ [9] exec_options(::Base.JLOptions) at ./client.jl:267
+ [10] _start() at ./client.jl:436
+in expression starting at /home/japereiro/University/Projects/MaxEnt/GitWorker/GitWorkersRepo.jl/Worker1/REPL-gitworker-copy/origin/repl.jl:4
+
+
+END 2020-07-09T16:49:46.592
+
+
+START 2020-07-09T16:50:57.619
+
+`julia repl.jl`
+
+top: bad pid '$(pgrep'
+ERROR: LoadError: failed process: Process(`top -c -p '$(pgrep' -d, -f 'julia)'`, ProcessExited(1)) [1]
+Stacktrace:
+ [1] error(::String, ::Base.Process, ::String, ::Int64, ::String) at ./error.jl:42
+ [2] pipeline_error at ./process.jl:785 [inlined]
+ [3] #run#515(::Bool, ::Function, ::Cmd) at ./process.jl:726
+ [4] run(::Cmd) at ./process.jl:724
+ [5] top-level scope at none:0
+ [6] include at ./boot.jl:326 [inlined]
+ [7] include_relative(::Module, ::String) at ./loading.jl:1038
+ [8] include(::Module, ::String) at ./sysimg.jl:29
+ [9] exec_options(::Base.JLOptions) at ./client.jl:267
+ [10] _start() at ./client.jl:436
+in expression starting at /home/japereiro/University/Projects/MaxEnt/GitWorker/GitWorkersRepo.jl/Worker1/REPL-gitworker-copy/origin/repl.jl:4
+
+
+END 2020-07-09T16:50:59.059
+
+
+START 2020-07-09T16:56:07.25
+
+`julia repl.jl`
+
+top: unknown option '|'
+Usage:
+  top -hv | -bcEHiOSs1 -d secs -n max -u|U user -p pid(s) -o field -w [cols]
+ERROR: LoadError: failed process: Process(`top -bc '|' julia`, ProcessExited(1)) [1]
+Stacktrace:
+ [1] error(::String, ::Base.Process, ::String, ::Int64, ::String) at ./error.jl:42
+ [2] pipeline_error at ./process.jl:785 [inlined]
+ [3] #run#515(::Bool, ::Function, ::Cmd) at ./process.jl:726
+ [4] run(::Cmd) at ./process.jl:724
+ [5] top-level scope at none:0
+ [6] include at ./boot.jl:326 [inlined]
+ [7] include_relative(::Module, ::String) at ./loading.jl:1038
+ [8] include(::Module, ::String) at ./sysimg.jl:29
+ [9] exec_options(::Base.JLOptions) at ./client.jl:267
+ [10] _start() at ./client.jl:436
+in expression starting at /home/japereiro/University/Projects/MaxEnt/GitWorker/GitWorkersRepo.jl/Worker1/REPL-gitworker-copy/origin/repl.jl:4
+
+
+END 2020-07-09T16:56:08.632
+
+
+START 2020-07-09T16:58:34.207
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T16:58:35.482
+
+
+START 2020-07-09T17:01:01.851
+
+`julia repl.jl`
+
+top: unknown option '3'
+Usage:
+  top -hv | -bcEHiOSs1 -d secs -n max -u|U user -p pid(s) -o field -w [cols]
+ERROR: LoadError: failed process: Process(`top -bc -n 1 375644`, ProcessExited(1)) [1]
+Stacktrace:
+ [1] error(::String, ::Base.Process, ::String, ::Int64, ::String) at ./error.jl:42
+ [2] pipeline_error at ./process.jl:785 [inlined]
+ [3] #run#515(::Bool, ::Function, ::Cmd) at ./process.jl:726
+ [4] run(::Cmd) at ./process.jl:724
+ [5] top-level scope at none:0
+ [6] include at ./boot.jl:326 [inlined]
+ [7] include_relative(::Module, ::String) at ./loading.jl:1038
+ [8] include(::Module, ::String) at ./sysimg.jl:29
+ [9] exec_options(::Base.JLOptions) at ./client.jl:267
+ [10] _start() at ./client.jl:436
+in expression starting at /home/japereiro/University/Projects/MaxEnt/GitWorker/GitWorkersRepo.jl/Worker1/REPL-gitworker-copy/origin/repl.jl:4
+
+
+END 2020-07-09T17:01:03.243
+
+
+START 2020-07-09T17:01:57.749
+
+`julia repl.jl`
+
+top: unknown option '3'
+Usage:
+  top -hv | -bcEHiOSs1 -d secs -n max -u|U user -p pid(s) -o field -w [cols]
+ERROR: LoadError: failed process: Process(`top -n 1 375644`, ProcessExited(1)) [1]
+Stacktrace:
+ [1] error(::String, ::Base.Process, ::String, ::Int64, ::String) at ./error.jl:42
+ [2] pipeline_error at ./process.jl:785 [inlined]
+ [3] #run#515(::Bool, ::Function, ::Cmd) at ./process.jl:726
+ [4] run(::Cmd) at ./process.jl:724
+ [5] top-level scope at none:0
+ [6] include at ./boot.jl:326 [inlined]
+ [7] include_relative(::Module, ::String) at ./loading.jl:1038
+ [8] include(::Module, ::String) at ./sysimg.jl:29
+ [9] exec_options(::Base.JLOptions) at ./client.jl:267
+ [10] _start() at ./client.jl:436
+in expression starting at /home/japereiro/University/Projects/MaxEnt/GitWorker/GitWorkersRepo.jl/Worker1/REPL-gitworker-copy/origin/repl.jl:4
+
+
+END 2020-07-09T17:01:59.133
+
+
+START 2020-07-09T17:03:01.688
+
+`julia repl.jl`
+
+ERROR: LoadError: failed process: Process(`grep 375646`, ProcessExited(1)) [1]
+Stacktrace:
+ [1] error(::String, ::Base.Process, ::String, ::Int64, ::String) at ./error.jl:42
+ [2] pipeline_error at ./process.jl:785 [inlined]
+ [3] pipeline_error(::Base.ProcessChain) at ./process.jl:798
+ [4] #run#515(::Bool, ::Function, ::Base.OrCmds) at ./process.jl:726
+ [5] run(::Base.OrCmds) at ./process.jl:724
+ [6] top-level scope at none:0
+ [7] include at ./boot.jl:326 [inlined]
+ [8] include_relative(::Module, ::String) at ./loading.jl:1038
+ [9] include(::Module, ::String) at ./sysimg.jl:29
+ [10] exec_options(::Base.JLOptions) at ./client.jl:267
+ [11] _start() at ./client.jl:436
+in expression starting at /home/japereiro/University/Projects/MaxEnt/GitWorker/GitWorkersRepo.jl/Worker1/REPL-gitworker-copy/origin/repl.jl:5
+
+
+END 2020-07-09T17:03:03.496
+
+
+START 2020-07-09T17:03:59.972
+
+`julia repl.jl`
+
+ERROR: LoadError: failed process: Process(`grep 375644`, ProcessExited(1)) [1]
+Stacktrace:
+ [1] error(::String, ::Base.Process, ::String, ::Int64, ::String) at ./error.jl:42
+ [2] pipeline_error at ./process.jl:785 [inlined]
+ [3] pipeline_error(::Base.ProcessChain) at ./process.jl:798
+ [4] #run#515(::Bool, ::Function, ::Base.OrCmds) at ./process.jl:726
+ [5] run(::Base.OrCmds) at ./process.jl:724
+ [6] top-level scope at none:0
+ [7] include at ./boot.jl:326 [inlined]
+ [8] include_relative(::Module, ::String) at ./loading.jl:1038
+ [9] include(::Module, ::String) at ./sysimg.jl:29
+ [10] exec_options(::Base.JLOptions) at ./client.jl:267
+ [11] _start() at ./client.jl:436
+in expression starting at /home/japereiro/University/Projects/MaxEnt/GitWorker/GitWorkersRepo.jl/Worker1/REPL-gitworker-copy/origin/repl.jl:4
+
+
+END 2020-07-09T17:04:01.596
+
+
+START 2020-07-09T17:04:46.475
+
+`julia repl.jl`
+
+top: failed tty get
+ERROR: LoadError: failed process: Process(`top -c -p 920,1345,1346`, ProcessExited(1)) [1]
+Stacktrace:
+ [1] error(::String, ::Base.Process, ::String, ::Int64, ::String) at ./error.jl:42
+ [2] pipeline_error at ./process.jl:785 [inlined]
+ [3] #run#515(::Bool, ::Function, ::Cmd) at ./process.jl:726
+ [4] run(::Cmd) at ./process.jl:724
+ [5] top-level scope at none:0
+ [6] include at ./boot.jl:326 [inlined]
+ [7] include_relative(::Module, ::String) at ./loading.jl:1038
+ [8] include(::Module, ::String) at ./sysimg.jl:29
+ [9] exec_options(::Base.JLOptions) at ./client.jl:267
+ [10] _start() at ./client.jl:436
+in expression starting at /home/japereiro/University/Projects/MaxEnt/GitWorker/GitWorkersRepo.jl/Worker1/REPL-gitworker-copy/origin/repl.jl:4
+
+
+END 2020-07-09T17:04:47.94
+
+
+START 2020-07-09T17:06:07.933
+
+`julia repl.jl`
+
+top: failed tty get
+ERROR: LoadError: failed process: Process(`top -c -p 375644`, ProcessExited(1)) [1]
+Stacktrace:
+ [1] error(::String, ::Base.Process, ::String, ::Int64, ::String) at ./error.jl:42
+ [2] pipeline_error at ./process.jl:785 [inlined]
+ [3] #run#515(::Bool, ::Function, ::Cmd) at ./process.jl:726
+ [4] run(::Cmd) at ./process.jl:724
+ [5] top-level scope at none:0
+ [6] include at ./boot.jl:326 [inlined]
+ [7] include_relative(::Module, ::String) at ./loading.jl:1038
+ [8] include(::Module, ::String) at ./sysimg.jl:29
+ [9] exec_options(::Base.JLOptions) at ./client.jl:267
+ [10] _start() at ./client.jl:436
+in expression starting at /home/japereiro/University/Projects/MaxEnt/GitWorker/GitWorkersRepo.jl/Worker1/REPL-gitworker-copy/origin/repl.jl:4
+
+
+END 2020-07-09T17:06:09.315
+
+
+START 2020-07-09T17:09:17.966
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T17:09:18.665
+
+
+START 2020-07-09T17:12:10.046
+
+`julia repl.jl`
+
+ERROR: LoadError: failed process: Process(`grep run_scripts.jl`, ProcessExited(1)) [1]
+Stacktrace:
+ [1] error(::String, ::Base.Process, ::String, ::Int64, ::String) at ./error.jl:42
+ [2] pipeline_error at ./process.jl:785 [inlined]
+ [3] pipeline_error(::Base.ProcessChain) at ./process.jl:798
+ [4] #run#515(::Bool, ::Function, ::Base.OrCmds) at ./process.jl:726
+ [5] run(::Base.OrCmds) at ./process.jl:724
+ [6] top-level scope at none:0
+ [7] include at ./boot.jl:326 [inlined]
+ [8] include_relative(::Module, ::String) at ./loading.jl:1038
+ [9] include(::Module, ::String) at ./sysimg.jl:29
+ [10] exec_options(::Base.JLOptions) at ./client.jl:267
+ [11] _start() at ./client.jl:436
+in expression starting at /home/japereiro/University/Projects/MaxEnt/GitWorker/GitWorkersRepo.jl/Worker1/REPL-gitworker-copy/origin/repl.jl:4
+
+
+END 2020-07-09T17:12:11.665
+
+
+START 2020-07-09T17:13:28.187
+
+`julia repl.jl`
+
+error: garbage option
+
+Usage:
+ ps [options]
+
+ Try 'ps --help <simple|list|output|threads|misc|all>'
+  or 'ps --help <s|l|o|t|m|a>'
+ for additional help text.
+
+For more details see ps(1).
+┌ Warning: special characters "#{}()[]<>|&*?~;" should now be quoted in commands
+│   caller = #shell_parse#351(::String, ::Function, ::String, ::Bool) at shell.jl:100
+└ @ Base ./shell.jl:100
+ERROR: LoadError: failed process: Process(`ps -e '|' less`, ProcessExited(1)) [1]
+Stacktrace:
+ [1] error(::String, ::Base.Process, ::String, ::Int64, ::String) at ./error.jl:42
+ [2] pipeline_error at ./process.jl:785 [inlined]
+ [3] #run#515(::Bool, ::Function, ::Cmd) at ./process.jl:726
+ [4] run(::Cmd) at ./process.jl:724
+ [5] top-level scope at none:0
+ [6] include at ./boot.jl:326 [inlined]
+ [7] include_relative(::Module, ::String) at ./loading.jl:1038
+ [8] include(::Module, ::String) at ./sysimg.jl:29
+ [9] exec_options(::Base.JLOptions) at ./client.jl:267
+ [10] _start() at ./client.jl:436
+in expression starting at /home/japereiro/University/Projects/MaxEnt/GitWorker/GitWorkersRepo.jl/Worker1/REPL-gitworker-copy/origin/repl.jl:4
+
+
+END 2020-07-09T17:13:30.086
+
+
+START 2020-07-09T17:14:22.251
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T17:14:22.898

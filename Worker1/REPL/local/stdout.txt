@@ -1,0 +1,965 @@
+
+
+START 2020-07-08T17:59:14.842
+
+`julia repl.jl`
+
+Hi
+
+
+END 2020-07-08T17:59:15.32
+
+
+START 2020-07-08T18:00:54.753
+
+`julia repl.jl`
+
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+Hi
+
+
+END 2020-07-08T18:00:55.24
+
+
+START 2020-07-08T19:21:29.123
+
+`julia repl.jl`
+
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+
+
+END 2020-07-08T19:21:29.606
+
+
+START 2020-07-08T21:11:25.884
+
+`julia repl.jl`
+
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+kjjk
+
+
+END 2020-07-08T21:11:26.366
+
+
+START 2020-07-09T16:49:44.056
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T16:49:46.592
+
+
+START 2020-07-09T16:50:57.619
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T16:50:59.059
+
+
+START 2020-07-09T16:56:07.25
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T16:56:08.632
+
+
+START 2020-07-09T16:58:34.207
+
+`julia repl.jl`
+
+ 357598 japerei+   0 -20  640608  63800   8460 S   0.0   0.8   4:42.47 julia
+ 374092 japerei+   0 -20  561384      0      0 S   0.0   0.0   0:01.12 julia /+
+ 375147 japerei+   0 -20  561312      0      0 S   0.0   0.0   0:00.70 julia r+
+ 375152 japerei+   0 -20 1242892 208688  43860 S   0.0   2.6   0:29.26 julia -+
+ 379068 japerei+   0 -20  561612 201788  73944 S   0.0   2.5   0:00.73 julia /+
+ 379073 japerei+   0 -20  556844 143924  62916 S   0.0   1.8   0:00.31 julia r+
+
+
+END 2020-07-09T16:58:35.482
+
+
+START 2020-07-09T17:01:01.851
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T17:01:03.243
+
+
+START 2020-07-09T17:01:57.749
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T17:01:59.133
+
+
+START 2020-07-09T17:03:01.688
+
+`julia repl.jl`
+
+ 375644 japerei+   0 -20 5340356   4.4g  64852 R  93.8  58.1  19:21.39 /opt/ju+
+
+
+END 2020-07-09T17:03:03.496
+
+
+START 2020-07-09T17:03:59.972
+
+`julia repl.jl`
+
+top - 17:04:00 up 1 day,  4:12,  1 user,  load average: 1.25, 1.25, 1.56
+Tasks: 240 total,   2 running, 213 sleeping,   0 stopped,  25 zombie
+%Cpu(s): 34.9 us,  4.8 sy,  0.0 ni, 60.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7825.1 total,   2154.6 free,   5227.7 used,    442.8 buff/cache
+MiB Swap:   2048.0 total,    510.8 free,   1537.2 used.   2302.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 375644 japerei+   0 -20 5340356   4.4g  64852 R 100.0  58.2  20:19.68 /opt/ju+
+ 380142 japerei+   0 -20  556820 143812  62788 S  53.3   1.8   0:00.31 julia r+
+ 380148 japerei+   0 -20   20496   3976   3268 R   6.7   0.0   0:00.01 top -bc+
+      1 root      20   0  169016   5704   3540 S   0.0   0.1   0:26.53 /sbin/i+
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 [kthrea+
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [rcu_gp]
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [rcu_pa+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [kworke+
+      9 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [mm_per+
+     10 root      20   0       0      0      0 S   0.0   0.0   0:02.69 [ksofti+
+     11 root      20   0       0      0      0 I   0.0   0.0   0:33.89 [rcu_sc+
+     12 root      rt   0       0      0      0 S   0.0   0.0   0:00.27 [migrat+
+     13 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 [idle_i+
+     14 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [cpuhp/+
+     15 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [cpuhp/+
+     16 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 [idle_i+
+     17 root      rt   0       0      0      0 S   0.0   0.0   0:00.34 [migrat+
+     18 root      20   0       0      0      0 S   0.0   0.0   0:02.60 [ksofti+
+     20 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [kworke+
+     21 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [cpuhp/+
+     22 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 [idle_i+
+     23 root      rt   0       0      0      0 S   0.0   0.0   0:00.32 [migrat+
+     24 root      20   0       0      0      0 S   0.0   0.0   0:02.51 [ksofti+
+     26 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [kworke+
+     27 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [cpuhp/+
+     28 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 [idle_i+
+     29 root      rt   0       0      0      0 S   0.0   0.0   0:00.31 [migrat+
+     30 root      20   0       0      0      0 S   0.0   0.0   0:02.77 [ksofti+
+     32 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [kworke+
+     33 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [kdevtm+
+     34 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [netns]
+     35 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [rcu_ta+
+     36 root      20   0       0      0      0 S   0.0   0.0   0:00.05 [kaudit+
+     37 root      20   0       0      0      0 S   0.0   0.0   0:00.06 [khungt+
+     38 root      20   0       0      0      0 S   0.0   0.0   0:01.77 [oom_re+
+     39 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [writeb+
+     40 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [kcompa+
+     41 root      25   5       0      0      0 S   0.0   0.0   0:00.00 [ksmd]
+     42 root      39  19       0      0      0 S   0.0   0.0   0:00.00 [khugep+
+    135 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [kinteg+
+    136 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [kblock+
+    137 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [blkcg_+
+    139 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [tpm_de+
+    140 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [ata_sf+
+    141 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [md]
+    142 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [edac-p+
+    143 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [devfre+
+    144 root      rt   0       0      0      0 S   0.0   0.0   0:00.00 [watchd+
+    147 root      20   0       0      0      0 S   0.0   0.0   2:25.40 [kswapd+
+    148 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [ecrypt+
+    151 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [kthrot+
+    152 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 [irq/12+
+    153 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [acpi_t+
+    154 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [vfio-i+
+    157 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [ipv6_a+
+    168 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [kstrp]
+    173 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [kworke+
+    192 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [charge+
+    244 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [scsi_e+
+    245 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [scsi_t+
+    246 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [scsi_e+
+    247 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [scsi_t+
+    248 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [scsi_e+
+    249 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [scsi_t+
+    250 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [scsi_e+
+    251 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [scsi_t+
+    257 root       0 -20       0      0      0 I   0.0   0.0   0:09.27 [kworke+
+    258 root       0 -20       0      0      0 I   0.0   0.0   0:06.75 [kworke+
+    262 root       0 -20       0      0      0 I   0.0   0.0   0:09.83 [kworke+
+    281 root      20   0       0      0      0 S   0.0   0.0   0:05.80 [jbd2/s+
+    282 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [ext4-r+
+    283 root       0 -20       0      0      0 I   0.0   0.0   0:04.89 [kworke+
+    322 root      19  -1  109412  20140  19580 S   0.0   0.3   0:06.65 /lib/sy+
+    355 root      20   0   23964   2256   1652 S   0.0   0.0   0:07.94 /lib/sy+
+    399 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 [irq/12+
+    400 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [led_wo+
+    415 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [cryptd]
+    574 systemd+  20   0   25236   2836   2452 S   0.0   0.0   0:03.59 /lib/sy+
+    592 root      20   0  250496      0      0 S   0.0   0.0   0:02.08 /usr/li+
+    593 root      20   0    2540      0      0 S   0.0   0.0   0:01.84 /usr/sb+
+    596 avahi     20   0    8500    216      4 S   0.0   0.0   0:02.30 avahi-d+
+    597 root      20   0   18044     84      0 S   0.0   0.0   0:00.52 /usr/sb+
+    599 message+  20   0    9952   2448    612 S   0.0   0.0   0:06.46 /usr/bi+
+    600 root      20   0  347404   5816   4252 S   0.0   0.1   4:06.09 /usr/sb+
+    609 root      20   0   81880     96      0 S   0.0   0.0   0:04.64 /usr/sb+
+    610 root      20   0   47904      0      0 S   0.0   0.0   0:00.06 /usr/bi+
+    612 root      20   0  254088   3092   2400 S   0.0   0.0   0:04.08 /usr/li+
+    614 syslog    20   0  224324    924    508 S   0.0   0.0   0:01.46 /usr/sb+
+    617 root      20   0  244316      0      0 S   0.0   0.0   0:00.04 /usr/li+
+    618 root      20   0   16920    412    248 S   0.0   0.0   0:01.57 /lib/sy+
+    619 root      20   0  134492    236      0 S   0.0   0.0   0:09.00 /usr/sb+
+    620 root      20   0  395404   1988    736 S   0.0   0.0   0:10.12 /usr/li+
+    621 root      20   0   13664    128     68 S   0.0   0.0   0:00.55 /sbin/w+
+    640 avahi     20   0    8320      4      0 S   0.0   0.0   0:00.00 avahi-d+
+    690 root      20   0  126424      0      0 S   0.0   0.0   0:00.05 /usr/bi+
+    692 root      20   0  239988      0      0 S   0.0   0.0   0:00.10 /usr/sb+
+    713 root      20   0  248224      0      0 S   0.0   0.0   0:00.05 /usr/sb+
+    768 rtkit     21   1  152916      0      0 S   0.0   0.0   0:01.27 /usr/li+
+    799 kernoops  20   0   11240     40      0 S   0.0   0.0   0:03.30 /usr/sb+
+    804 kernoops  20   0   11240    100      0 S   0.0   0.0   0:03.27 /usr/sb+
+    943 root      20   0  260852      0      0 S   0.0   0.0   0:00.57 /usr/li+
+   1360 colord    20   0  257600      4      4 S   0.0   0.0   0:00.47 /usr/li+
+   1478 root       0 -20       0      0      0 S   0.0   0.0   0:00.00 [loop0]
+   1626 root      20   0 1678344   6892   2332 S   0.0   0.1   0:38.14 /usr/li+
+   1749 root       0 -20       0      0      0 S   0.0   0.0   0:00.45 [loop1]
+   1840 root       0 -20       0      0      0 S   0.0   0.0   0:01.10 [loop2]
+   1944 root       0 -20       0      0      0 S   0.0   0.0   0:00.01 [loop3]
+   2034 root       0 -20       0      0      0 S   0.0   0.0   0:00.11 [loop4]
+   2139 root      20   0  323264      4      4 S   0.0   0.0   0:00.07 gdm-ses+
+   2154 japerei+  20   0   26576     12      0 S   0.0   0.0   0:01.07 /lib/sy+
+   2157 japerei+  20   0  169980      4      0 S   0.0   0.0   0:00.00 (sd-pam)
+   2168 japerei+  20   0 1867916      0      0 S   0.0   0.0   0:03.49 /usr/bi+
+   2170 japerei+  39  19 1126072     88      0 S   0.0   0.0   0:00.36 /usr/li+
+   2174 japerei+  20   0  248808      0      0 S   0.0   0.0   0:00.43 /usr/bi+
+   2177 japerei+  20   0   15144      4      4 S   0.0   0.0   0:02.77 /usr/bi+
+   2181 japerei+  20   0  248420      0      0 S   0.0   0.0   0:00.28 /usr/li+
+   2186 japerei+  20   0  382056      0      0 S   0.0   0.0   0:00.00 /usr/li+
+   2194 japerei+  20   0  399852   2700   1768 S   0.0   0.0   0:01.19 /usr/li+
+   2200 japerei+  20   0  325352      0      0 S   0.0   0.0   0:02.85 /usr/li+
+   2205 japerei+  20   0  244500      0      0 S   0.0   0.0   0:00.06 /usr/li+
+   2209 japerei+  20   0  550368      0      0 S   0.0   0.0   0:00.06 /usr/li+
+   2216 japerei+  20   0  327276     12      0 S   0.0   0.0   0:01.07 /usr/li+
+   2231 japerei+  20   0  244320      4      4 S   0.0   0.0   0:00.08 /usr/li+
+   2236 japerei+  20   0  246724      4      4 S   0.0   0.0   0:00.07 /usr/li+
+   2250 japerei+  20   0  172628      0      0 S   0.0   0.0   0:00.02 /usr/li+
+   2254 japerei+  20   0  849904  10640   7208 S   0.0   0.1  11:51.02 /usr/li+
+   2295 japerei+  20   0  199440      4      4 S   0.0   0.0   0:00.09 /usr/li+
+   2367 japerei+  20   0    6032      0      0 S   0.0   0.0   0:00.47 /usr/bi+
+   2384 japerei+  20   0  326472      4      4 S   0.0   0.0   0:42.81 /usr/bi+
+   2390 japerei+  20   0  248996      0      0 S   0.0   0.0   0:00.01 /usr/li+
+   2391 japerei+  20   0  719024      0      0 S   0.0   0.0   0:00.71 /usr/li+
+   2393 japerei+  20   0  682016      0      0 S   0.0   0.0   0:07.66 /usr/li+
+   2396 japerei+  20   0  604332      0      0 S   0.0   0.0   0:00.46 /usr/li+
+   2398 japerei+  20   0  248916      0      0 S   0.0   0.0   0:00.25 /usr/li+
+   2419 japerei+  20   0  309716      0      0 S   0.0   0.0   0:00.01 /usr/li+
+   2424 japerei+  20   0    7348      0      0 S   0.0   0.0   0:01.14 /usr/bi+
+   2431 japerei+  20   0  162944      0      0 S   0.0   0.0   0:04.27 /usr/li+
+   2441 japerei+  20   0  618916      0      0 S   0.0   0.0   0:02.10 /usr/li+
+   2445 japerei+  20   0  687244      0      0 S   0.0   0.0   0:00.33 /usr/li+
+   2448 japerei+  20   0  244220      0      0 S   0.0   0.0   0:00.03 /usr/li+
+   2457 japerei+  20   0  506672      0      0 S   0.0   0.0   0:01.64 /usr/li+
+   2465 japerei+  20   0  156592      0      0 S   0.0   0.0   0:00.41 /usr/li+
+   2472 japerei+  20   0  248516      0      0 S   0.0   0.0   0:00.00 /usr/bi+
+   2474 japerei+  20   0  175236      0      0 S   0.0   0.0   0:11.83 /usr/li+
+   2486 japerei+  20   0   98672      0      0 S   0.0   0.0   0:00.00 /usr/li+
+   2508 japerei+  20   0  495332      0      0 S   0.0   0.0   0:00.36 /usr/li+
+   2522 japerei+  20   0 4730576  62072  17600 S   0.0   0.8  11:13.89 /usr/bi+
+   2551 japerei+  20   0  508032      0      0 S   0.0   0.0   0:00.11 /usr/li+
+   2561 japerei+  20   0 1144588      0      0 S   0.0   0.0   0:00.39 /usr/li+
+   2568 japerei+  20   0 2742532      0      0 S   0.0   0.0   0:00.07 /usr/bi+
+   2582 japerei+  20   0  322604      0      0 S   0.0   0.0   0:00.02 /usr/li+
+   2583 japerei+  20   0  589636   3028   2384 S   0.0   0.0   0:01.62 /usr/li+
+   2584 japerei+  20   0  382952      0      0 S   0.0   0.0   0:00.03 /usr/li+
+   2585 japerei+  20   0  322812   2468   2276 S   0.0   0.0   0:02.84 /usr/li+
+   2587 japerei+  20   0  356960      0      0 S   0.0   0.0   0:00.45 /usr/li+
+   2588 japerei+  20   0  912160      0      0 S   0.0   0.0   0:01.07 /usr/li+
+   2589 japerei+  20   0  431280    744    508 S   0.0   0.0   0:00.79 /usr/li+
+   2590 japerei+  20   0  256840      0      0 S   0.0   0.0   0:00.05 /usr/li+
+   2591 japerei+  20   0  465720      0      0 S   0.0   0.0   0:00.04 /usr/li+
+   2592 japerei+  20   0  244132      0      0 S   0.0   0.0   0:00.01 /usr/li+
+   2593 japerei+  20   0  477528    644      0 S   0.0   0.0   0:00.46 /usr/li+
+   2594 japerei+  20   0  326628      0      0 S   0.0   0.0   0:00.02 /usr/li+
+   2606 japerei+  20   0  330360      0      0 S   0.0   0.0   0:00.02 /usr/li+
+   2607 japerei+  20   0  396504      0      0 S   0.0   0.0   0:00.04 /usr/li+
+   2611 japerei+  20   0  356476      0      0 S   0.0   0.0   0:00.43 /usr/li+
+   2612 japerei+  20   0  326928      0      0 S   0.0   0.0   0:00.02 /usr/li+
+   2613 japerei+  20   0  357596      0      0 S   0.0   0.0   0:00.61 /usr/li+
+   2617 japerei+  20   0  231792    592      0 S   0.0   0.0   0:00.10 /usr/li+
+   2646 japerei+  20   0  642920     12      0 S   0.0   0.0   0:00.94 /usr/li+
+   2676 japerei+  20   0  350784      0      0 S   0.0   0.0   0:00.07 /usr/li+
+   2698 japerei+  20   0  326300      0      0 S   0.0   0.0   0:00.19 /usr/li+
+   2768 japerei+  20   0  921128      0      0 S   0.0   0.0   0:00.21 /usr/li+
+   2844 japerei+  20   0  755668      0      0 S   0.0   0.0   0:00.10 /usr/li+
+   2849 japerei+  20   0  171120      0      0 S   0.0   0.0   0:00.45 /usr/li+
+   3335 japerei+  20   0  735732    912      0 S   0.0   0.0   0:03.58 update-+
+   4606 japerei+  20   0  678816      0      0 S   0.0   0.0   0:00.08 /usr/li+
+   4622 japerei+  20   0  323596    304    204 S   0.0   0.0   0:00.17 /usr/li+
+   4656 japerei+  20   0  865072   2760   2496 S   0.0   0.0   0:01.31 /usr/bi+
+   4658 japerei+  20   0  477060    184      0 S   0.0   0.0   0:00.63 /usr/bi+
+   7840 japerei+  20   0 1474444   3700      0 S   0.0   0.0   1:01.73 /snap/s+
+   8230 japerei+  20   0  235928      0      0 S   0.0   0.0   0:00.01 /usr/li+
+   9825 japerei+  20   0 2447668     44      0 S   0.0   0.0   0:19.51 /usr/bi+
+   9840 root      20   0  269964      0      0 S   0.0   0.0   0:01.81 python3+
+  11389 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11391 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11393 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11394 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11395 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11396 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11397 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11398 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11399 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11400 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11401 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11402 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11403 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11404 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11405 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11406 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11407 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11408 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11409 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11410 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11411 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11412 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11413 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11414 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  11415 japerei+  20   0       0      0      0 Z   0.0   0.0   0:00.00 [ping] +
+  18991 japerei+  20   0  974956  11956   6568 S   0.0   0.1   1:08.18 /usr/li+
+  19002 japerei+  20   0   19508      8      4 S   0.0   0.0   0:00.15 bash
+  19147 japerei+  20   0   19452     96      0 S   0.0   0.0   0:04.88 /usr/li+
+ 228671 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [xfsall+
+ 228679 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 [xfs_mr+
+ 228682 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [jfsIO]
+ 228683 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [jfsCom+
+ 228684 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [jfsCom+
+ 228685 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [jfsCom+
+ 228686 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [jfsCom+
+ 228687 root      20   0       0      0      0 S   0.0   0.0   0:00.00 [jfsSyn+
+ 230588 root      20   0   37172      0      0 S   0.0   0.0   0:00.14 /usr/sb+
+ 230589 root      20   0  180556     52      0 S   0.0   0.0   0:00.12 /usr/sb+
+ 283259 root      20   0  175068      0      0 S   0.0   0.0   0:00.00 gdm-ses+
+ 326873 japerei+  20   0  323016      4      4 S   0.0   0.0   0:00.02 /usr/li+
+ 357598 japerei+   0 -20  640608  63840   8460 S   0.0   0.8   4:55.09 julia
+ 368574 root      20   0       0      0      0 I   0.0   0.0   0:00.10 [kworke+
+ 369600 root      20   0       0      0      0 I   0.0   0.0   0:00.24 [kworke+
+ 371430 root      20   0       0      0      0 I   0.0   0.0   0:00.07 [kworke+
+ 374092 japerei+   0 -20  561384      0      0 S   0.0   0.0   0:01.12 julia /+
+ 374236 root      20   0       0      0      0 I   0.0   0.0   0:00.08 [kworke+
+ 375147 japerei+   0 -20  561312      0      0 S   0.0   0.0   0:00.70 julia r+
+ 375152 japerei+   0 -20 1242892 208688  43860 S   0.0   2.6   0:29.26 julia -+
+ 376255 root      20   0       0      0      0 I   0.0   0.0   0:00.05 [kworke+
+ 376917 root      20   0       0      0      0 I   0.0   0.0   0:00.01 [kworke+
+ 377354 root      20   0       0      0      0 I   0.0   0.0   0:00.03 [kworke+
+ 377889 root      20   0       0      0      0 I   0.0   0.0   0:00.00 [kworke+
+ 378382 root      20   0       0      0      0 I   0.0   0.0   0:00.04 [kworke+
+ 378791 root      20   0       0      0      0 I   0.0   0.0   0:00.01 [kworke+
+ 379404 root      20   0       0      0      0 I   0.0   0.0   0:00.01 [kworke+
+ 379812 root      20   0       0      0      0 I   0.0   0.0   0:00.00 [kworke+
+ 380137 japerei+   0 -20  561544 201724  74080 S   0.0   2.5   0:00.75 julia /+
+
+
+END 2020-07-09T17:04:01.596
+
+
+START 2020-07-09T17:04:46.475
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T17:04:47.94
+
+
+START 2020-07-09T17:06:07.933
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T17:06:09.315
+
+
+START 2020-07-09T17:09:17.966
+
+`julia repl.jl`
+
+ 381097 japerei+   0 -20  556844 143932  62928 S  46.7   1.8   0:00.30 julia r+
+ 357598 japerei+   0 -20  640608  63912   8460 S   0.0   0.8   5:06.67 julia
+ 374092 japerei+   0 -20  561384      0      0 S   0.0   0.0   0:01.12 julia /+
+ 375147 japerei+   0 -20  561312      0      0 S   0.0   0.0   0:00.70 julia r+
+ 375152 japerei+   0 -20 1242892 208688  43860 S   0.0   2.6   0:29.26 julia -+
+ 381092 japerei+   0 -20  562108 201284  73616 S   0.0   2.5   0:00.72 julia /+
+
+
+END 2020-07-09T17:09:18.665
+
+
+START 2020-07-09T17:12:10.046
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T17:12:11.665
+
+
+START 2020-07-09T17:13:28.187
+
+`julia repl.jl`
+
+
+
+END 2020-07-09T17:13:30.086
+
+
+START 2020-07-09T17:14:22.251
+
+`julia repl.jl`
+
+    PID TTY          TIME CMD
+      1 ?        00:00:26 systemd
+      2 ?        00:00:00 kthreadd
+      3 ?        00:00:00 rcu_gp
+      4 ?        00:00:00 rcu_par_gp
+      6 ?        00:00:00 kworker/0:0H-kblockd
+      9 ?        00:00:00 mm_percpu_wq
+     10 ?        00:00:02 ksoftirqd/0
+     11 ?        00:00:33 rcu_sched
+     12 ?        00:00:00 migration/0
+     13 ?        00:00:00 idle_inject/0
+     14 ?        00:00:00 cpuhp/0
+     15 ?        00:00:00 cpuhp/1
+     16 ?        00:00:00 idle_inject/1
+     17 ?        00:00:00 migration/1
+     18 ?        00:00:02 ksoftirqd/1
+     20 ?        00:00:00 kworker/1:0H-kblockd
+     21 ?        00:00:00 cpuhp/2
+     22 ?        00:00:00 idle_inject/2
+     23 ?        00:00:00 migration/2
+     24 ?        00:00:02 ksoftirqd/2
+     26 ?        00:00:00 kworker/2:0H-kblockd
+     27 ?        00:00:00 cpuhp/3
+     28 ?        00:00:00 idle_inject/3
+     29 ?        00:00:00 migration/3
+     30 ?        00:00:02 ksoftirqd/3
+     32 ?        00:00:00 kworker/3:0H-kblockd
+     33 ?        00:00:00 kdevtmpfs
+     34 ?        00:00:00 netns
+     35 ?        00:00:00 rcu_tasks_kthre
+     36 ?        00:00:00 kauditd
+     37 ?        00:00:00 khungtaskd
+     38 ?        00:00:01 oom_reaper
+     39 ?        00:00:00 writeback
+     40 ?        00:00:00 kcompactd0
+     41 ?        00:00:00 ksmd
+     42 ?        00:00:00 khugepaged
+    135 ?        00:00:00 kintegrityd
+    136 ?        00:00:00 kblockd
+    137 ?        00:00:00 blkcg_punt_bio
+    139 ?        00:00:00 tpm_dev_wq
+    140 ?        00:00:00 ata_sff
+    141 ?        00:00:00 md
+    142 ?        00:00:00 edac-poller
+    143 ?        00:00:00 devfreq_wq
+    144 ?        00:00:00 watchdogd
+    147 ?        00:02:25 kswapd0
+    148 ?        00:00:00 ecryptfs-kthrea
+    151 ?        00:00:00 kthrotld
+    152 ?        00:00:00 irq/121-aerdrv
+    153 ?        00:00:00 acpi_thermal_pm
+    154 ?        00:00:00 vfio-irqfd-clea
+    157 ?        00:00:00 ipv6_addrconf
+    168 ?        00:00:00 kstrp
+    173 ?        00:00:00 kworker/u9:0
+    192 ?        00:00:00 charger_manager
+    244 ?        00:00:00 scsi_eh_0
+    245 ?        00:00:00 scsi_tmf_0
+    246 ?        00:00:00 scsi_eh_1
+    247 ?        00:00:00 scsi_tmf_1
+    248 ?        00:00:00 scsi_eh_2
+    249 ?        00:00:00 scsi_tmf_2
+    250 ?        00:00:00 scsi_eh_3
+    251 ?        00:00:00 scsi_tmf_3
+    257 ?        00:00:09 kworker/3:1H-kblockd
+    258 ?        00:00:06 kworker/0:1H-kblockd
+    262 ?        00:00:09 kworker/2:1H-kblockd
+    281 ?        00:00:05 jbd2/sda2-8
+    282 ?        00:00:00 ext4-rsv-conver
+    283 ?        00:00:04 kworker/1:1H-kblockd
+    322 ?        00:00:06 systemd-journal
+    355 ?        00:00:07 systemd-udevd
+    399 ?        00:00:00 irq/126-mei_me
+    400 ?        00:00:00 led_workqueue
+    415 ?        00:00:00 cryptd
+    574 ?        00:00:03 systemd-resolve
+    592 ?        00:00:02 accounts-daemon
+    593 ?        00:00:01 acpid
+    596 ?        00:00:02 avahi-daemon
+    597 ?        00:00:00 cron
+    599 ?        00:00:06 dbus-daemon
+    600 ?        00:04:06 NetworkManager
+    609 ?        00:00:04 irqbalance
+    610 ?        00:00:00 networkd-dispat
+    612 ?        00:00:04 polkitd
+    614 ?        00:00:01 rsyslogd
+    617 ?        00:00:00 switcheroo-cont
+    618 ?        00:00:01 systemd-logind
+    619 ?        00:00:09 thermald
+    620 ?        00:00:10 udisksd
+    621 ?        00:00:00 wpa_supplicant
+    640 ?        00:00:00 avahi-daemon
+    690 ?        00:00:00 unattended-upgr
+    692 ?        00:00:00 ModemManager
+    713 ?        00:00:00 gdm3
+    768 ?        00:00:01 rtkit-daemon
+    799 ?        00:00:03 kerneloops
+    804 ?        00:00:03 kerneloops
+    943 ?        00:00:00 upowerd
+   1360 ?        00:00:00 colord
+   1478 ?        00:00:00 loop0
+   1626 ?        00:00:38 snapd
+   1749 ?        00:00:00 loop1
+   1840 ?        00:00:01 loop2
+   1944 ?        00:00:00 loop3
+   2034 ?        00:00:00 loop4
+   2139 ?        00:00:00 gdm-session-wor
+   2154 ?        00:00:01 systemd
+   2157 ?        00:00:00 (sd-pam)
+   2168 ?        00:00:03 pulseaudio
+   2170 ?        00:00:00 tracker-miner-f
+   2174 ?        00:00:00 gnome-keyring-d
+   2177 ?        00:00:02 dbus-daemon
+   2181 ?        00:00:00 gvfsd
+   2186 ?        00:00:00 gvfsd-fuse
+   2194 ?        00:00:01 gvfs-udisks2-vo
+   2200 ?        00:00:02 gvfs-afc-volume
+   2205 ?        00:00:00 gvfs-goa-volume
+   2209 ?        00:00:00 goa-daemon
+   2216 ?        00:00:01 goa-identity-se
+   2231 ?        00:00:00 gvfs-mtp-volume
+   2236 ?        00:00:00 gvfs-gphoto2-vo
+   2250 tty2     00:00:00 gdm-x-session
+   2254 tty2     00:11:51 Xorg
+   2295 tty2     00:00:00 gnome-session-b
+   2367 ?        00:00:00 ssh-agent
+   2384 ?        00:00:42 ibus-daemon
+   2390 ?        00:00:00 ibus-dconf
+   2391 ?        00:00:00 ibus-ui-gtk3
+   2393 ?        00:00:07 ibus-extension-
+   2396 ?        00:00:00 ibus-x11
+   2398 ?        00:00:00 ibus-portal
+   2419 ?        00:00:00 at-spi-bus-laun
+   2424 ?        00:00:01 dbus-daemon
+   2431 ?        00:00:04 at-spi2-registr
+   2441 ?        00:00:02 xdg-desktop-por
+   2445 ?        00:00:00 xdg-document-po
+   2448 ?        00:00:00 xdg-permission-
+   2457 ?        00:00:01 xdg-desktop-por
+   2465 ?        00:00:00 dconf-service
+   2472 ?        00:00:00 gnome-keyring-d
+   2474 ?        00:00:11 ibus-engine-sim
+   2486 ?        00:00:00 gnome-session-c
+   2508 ?        00:00:00 gnome-session-b
+   2522 ?        00:11:14 gnome-shell
+   2551 ?        00:00:00 gnome-shell-cal
+   2561 ?        00:00:00 evolution-sourc
+   2568 ?        00:00:00 gjs
+   2582 ?        00:00:00 gsd-a11y-settin
+   2583 ?        00:00:01 gsd-color
+   2584 ?        00:00:00 gsd-datetime
+   2585 ?        00:00:02 gsd-housekeepin
+   2587 ?        00:00:00 gsd-keyboard
+   2588 ?        00:00:01 gsd-media-keys
+   2589 ?        00:00:00 gsd-power
+   2590 ?        00:00:00 gsd-print-notif
+   2591 ?        00:00:00 gsd-rfkill
+   2592 ?        00:00:00 gsd-screensaver
+   2593 ?        00:00:00 gsd-sharing
+   2594 ?        00:00:00 gsd-smartcard
+   2606 ?        00:00:00 gsd-sound
+   2607 ?        00:00:00 gsd-usb-protect
+   2611 ?        00:00:00 gsd-wacom
+   2612 ?        00:00:00 gsd-wwan
+   2613 ?        00:00:00 gsd-xsettings
+   2617 ?        00:00:00 gsd-disk-utilit
+   2646 ?        00:00:00 evolution-alarm
+   2676 ?        00:00:00 gsd-printer
+   2698 ?        00:00:00 gvfsd-trash
+   2768 ?        00:00:00 evolution-calen
+   2844 ?        00:00:00 evolution-addre
+   2849 ?        00:00:00 gvfsd-metadata
+   3335 ?        00:00:03 update-notifier
+   4606 ?        00:00:00 gvfsd-network
+   4622 ?        00:00:00 gvfsd-dnssd
+   4656 ?        00:00:01 gnome-calendar
+   4658 ?        00:00:00 seahorse
+   7840 ?        00:01:01 snap-store
+   8230 ?        00:00:00 glib-pacrunner
+   9825 ?        00:00:19 software-proper
+   9840 ?        00:00:01 python3
+  11389 ?        00:00:00 ping <defunct>
+  11391 ?        00:00:00 ping <defunct>
+  11393 ?        00:00:00 ping <defunct>
+  11394 ?        00:00:00 ping <defunct>
+  11395 ?        00:00:00 ping <defunct>
+  11396 ?        00:00:00 ping <defunct>
+  11397 ?        00:00:00 ping <defunct>
+  11398 ?        00:00:00 ping <defunct>
+  11399 ?        00:00:00 ping <defunct>
+  11400 ?        00:00:00 ping <defunct>
+  11401 ?        00:00:00 ping <defunct>
+  11402 ?        00:00:00 ping <defunct>
+  11403 ?        00:00:00 ping <defunct>
+  11404 ?        00:00:00 ping <defunct>
+  11405 ?        00:00:00 ping <defunct>
+  11406 ?        00:00:00 ping <defunct>
+  11407 ?        00:00:00 ping <defunct>
+  11408 ?        00:00:00 ping <defunct>
+  11409 ?        00:00:00 ping <defunct>
+  11410 ?        00:00:00 ping <defunct>
+  11411 ?        00:00:00 ping <defunct>
+  11412 ?        00:00:00 ping <defunct>
+  11413 ?        00:00:00 ping <defunct>
+  11414 ?        00:00:00 ping <defunct>
+  11415 ?        00:00:00 ping <defunct>
+  18991 ?        00:01:08 gnome-terminal-
+  19002 pts/0    00:00:00 bash
+  19147 pts/0    00:00:04 git-credential-
+ 228671 ?        00:00:00 xfsalloc
+ 228679 ?        00:00:00 xfs_mru_cache
+ 228682 ?        00:00:00 jfsIO
+ 228683 ?        00:00:00 jfsCommit
+ 228684 ?        00:00:00 jfsCommit
+ 228685 ?        00:00:00 jfsCommit
+ 228686 ?        00:00:00 jfsCommit
+ 228687 ?        00:00:00 jfsSync
+ 230588 ?        00:00:00 cupsd
+ 230589 ?        00:00:00 cups-browsed
+ 283259 ?        00:00:00 gdm-session-wor
+ 326873 ?        00:00:00 gvfsd-recent
+ 357598 pts/0    00:05:18 julia
+ 368574 ?        00:00:00 kworker/0:0-events
+ 369600 ?        00:00:00 kworker/1:0-events
+ 374092 pts/0    00:00:01 julia
+ 374236 ?        00:00:00 kworker/0:2-events
+ 375147 pts/0    00:00:00 julia
+ 375152 pts/0    00:00:29 julia
+ 375644 ?        00:30:41 julia
+ 376255 ?        00:00:00 kworker/3:0-cgroup_destroy
+ 376917 ?        00:00:00 kworker/2:2-events
+ 378382 ?        00:00:00 kworker/u8:2-events_unbound
+ 378791 ?        00:00:00 kworker/2:0-mm_percpu_wq
+ 379812 ?        00:00:00 kworker/1:1-events
+ 380522 ?        00:00:00 kworker/u8:0-events_unbound
+ 380694 ?        00:00:00 kworker/3:2-events
+ 381586 ?        00:00:00 kworker/u8:1
+ 381623 ?        00:00:00 kworker/1:2
+ 382061 pts/0    00:00:00 julia
+ 382066 pts/0    00:00:00 julia
+ 382071 pts/0    00:00:00 ps
+ 382072 pts/0    00:00:00 julia
+
+
+END 2020-07-09T17:14:22.898

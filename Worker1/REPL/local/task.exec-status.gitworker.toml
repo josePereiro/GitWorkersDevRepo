@@ -1,0 +1,18 @@
+# This file is machine-generated - editing it directly is not advised
+
+# Further info describing KILL_SIGN_STATE
+KILL_SIGN_STATE_INFO = "Default"
+
+# The state of the EXE_ORDER as resolved by the TaskManager from the control files state.
+EXE_ORDER_STATE = false
+
+# Further info describing EXE_ORDER_STATE
+EXE_ORDER_STATE_INFO = "Default"
+
+# The state of the KILL_SIGN as resolved by the TaskManager from the control files state.
+KILL_SIGN_STATE = false
+
+# Set the last execution order, used to resolve if a execution order was already executed
+LAST_EXE_ORDER = 36
+
+

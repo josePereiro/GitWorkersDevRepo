@@ -1,0 +1,4 @@
+notebooks
+*-gitworker-copy*
+*.ipynb_checkpoints
+*.ipynb
