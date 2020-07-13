@@ -3,18 +3,18 @@
         "kill_sign_state": {
             "value": false,
             "info": "kill_sign != kill",
-            "update_date": "2020-07-13T00:44:00.645"
+            "update_date": "2020-07-13T00:44:13.984"
         },
         "execution_state": {
-            "value": true,
-            "info": "exe_order > last_exe_order, run Forrest run!!!",
-            "update_date": "2020-07-13T00:44:00.645",
+            "value": false,
+            "info": "Default",
+            "update_date": "2020-07-13T00:44:13.984",
             "last_exe_order": 4
         },
         "running_state": {
             "pid": null,
             "value": false,
-            "update_date": "2020-07-13T00:44:00.645",
+            "update_date": "2020-07-13T00:44:13.984",
             "info": "No process pid request succeeded"
         }
     }
