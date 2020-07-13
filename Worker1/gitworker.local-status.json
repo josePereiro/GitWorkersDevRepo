@@ -3,19 +3,19 @@
         "kill_sign_state": {
             "value": false,
             "info": "kill_sign != kill",
-            "update_date": "2020-07-13T00:49:24.391"
+            "update_date": "2020-07-13T00:49:36.209"
         },
         "execution_state": {
             "value": false,
             "info": "Default",
-            "update_date": "2020-07-13T00:49:24.391",
+            "update_date": "2020-07-13T00:49:36.209",
             "last_exe_order": 6
         },
         "running_state": {
-            "pid": 66582,
-            "value": true,
-            "update_date": "2020-07-13T00:49:24.391",
-            "info": "Process pid request succeeded"
+            "pid": null,
+            "value": false,
+            "update_date": "2020-07-13T00:49:36.209",
+            "info": "No process pid request succeeded"
         }
     }
 }
