@@ -5,3 +5,8 @@ START 2020-07-13T00:45:50.467
 
 `julia repl.jl`
 
+loaded /Users/Pereiro/.julia/config/startup.jl
+Hi!!!
+
+
+END 2020-07-13T00:45:53.984
