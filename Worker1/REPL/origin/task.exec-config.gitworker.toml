@@ -1,0 +1,9 @@
+# This file is machine-generated - editing it directly is not advised
+
+# Main control of tasks kill state, if present the task will be killed or never run
+KILL_SIGN = "NOT_KILL"
+
+# Main control of tasks execution state, represent the current execution orider
+EXE_ORDER = 36
+
+
