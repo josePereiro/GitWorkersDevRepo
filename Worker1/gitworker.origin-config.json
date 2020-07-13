@@ -3,12 +3,12 @@
         "exe_order": {
             "value": 2,
             "info": "",
-            "update_date": "2020-07-13T00:28:09.254"
+            "update_date": "2020-07-13T00:28:56.572"
         },
         "kill_sign": {
             "value": "kill_sign",
             "info": "Prepare for task execution",
-            "update_date": "2020-07-13T00:28:09.254"
+            "update_date": "2020-07-13T00:28:56.572"
         }
     }
 }
