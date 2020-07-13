@@ -3,17 +3,17 @@
         "kill_sign_state": {
             "value": false,
             "info": "Task origin config missing",
-            "update_date": "2020-07-12T20:37:22.423"
+            "update_date": "2020-07-12T20:37:32.036"
         },
         "execution_state": {
             "value": false,
             "info": "Task origin config missing",
-            "update_date": "2020-07-12T20:37:22.423"
+            "update_date": "2020-07-12T20:37:32.036"
         },
         "running_state": {
             "pid": null,
             "value": false,
-            "update_date": "2020-07-12T20:37:22.423",
+            "update_date": "2020-07-12T20:37:32.036",
             "info": "No process pid request succeeded"
         }
     }
