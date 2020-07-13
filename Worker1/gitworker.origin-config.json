@@ -1,14 +1,14 @@
 {
     "Worker1/REPL": {
         "exe_order": {
-            "value": 2,
+            "value": 3,
             "info": "",
-            "update_date": "2020-07-13T00:30:18.529"
+            "update_date": "2020-07-13T00:42:46.471"
         },
         "kill_sign": {
             "value": "kill_sign",
             "info": "Prepare for task execution",
-            "update_date": "2020-07-13T00:30:18.529"
+            "update_date": "2020-07-13T00:42:46.471"
         }
     }
 }
