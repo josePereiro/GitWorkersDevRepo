@@ -2,18 +2,19 @@
     "Worker1/REPL": {
         "kill_sign_state": {
             "value": false,
-            "info": "Task origin config missing",
-            "update_date": "2020-07-12T23:54:57.454"
+            "info": "kill_sign != kill",
+            "update_date": "2020-07-12T23:59:52.112"
         },
         "execution_state": {
-            "value": false,
-            "info": "Task origin config missing",
-            "update_date": "2020-07-12T23:54:57.454"
+            "value": true,
+            "info": "Task last_exe_order missing",
+            "update_date": "2020-07-12T23:59:52.112",
+            "last_exe_order": 2
         },
         "running_state": {
             "pid": null,
             "value": false,
-            "update_date": "2020-07-12T23:54:57.454",
+            "update_date": "2020-07-12T23:59:52.112",
             "info": "No process pid request succeeded"
         }
     }
