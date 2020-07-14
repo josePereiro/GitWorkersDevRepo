@@ -1,0 +1,12 @@
+loaded /Users/Pereiro/.julia/config/startup.jl
+
+
+START 2020-07-14T11:52:34.17
+
+`julia repl.jl`
+
+loaded /Users/Pereiro/.julia/config/startup.jl
+Working version Baby!!!!!
+
+
+END 2020-07-14T11:52:38.456
