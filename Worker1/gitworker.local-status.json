@@ -2,19 +2,19 @@
     "Worker1/REPL": {
         "kill_sign_state": {
             "value": false,
-            "update_date": "2020-07-14T12:04:57.18",
+            "update_date": "2020-07-14T12:05:04.79",
             "info": "kill_sign != kill"
         },
         "execution_state": {
             "value": false,
-            "update_date": "2020-07-14T12:04:57.18",
+            "update_date": "2020-07-14T12:05:04.79",
             "info": "exe_order <= last_exe_order",
             "last_exe_order": 14
         },
         "running_state": {
             "pid": null,
             "value": false,
-            "update_date": "2020-07-14T12:04:57.18",
+            "update_date": "2020-07-14T12:05:04.79",
             "info": "No process pid request succeeded"
         }
     }
