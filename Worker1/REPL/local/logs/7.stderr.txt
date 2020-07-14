@@ -1,0 +1,60 @@
+
+
+START 2020-07-13T11:32:03.4
+
+`julia repl.jl`
+
+
+signal (2): Interrupt: 2
+in expression starting at /Users/Pereiro/.julia/dev/GitWorkersDevRepo/Worker1/REPL-gitworker-copy/origin/task.gitworker.jl:21
+__psynch_cvwait at /usr/lib/system/libsystem_kernel.dylib (unknown line)
+unknown function (ip: 0xffffffffffffffff)
+__psynch_cvwait at /usr/lib/system/libsystem_kernel.dylib (unknown line)
+unknown function (ip: 0xffffffffffffffff)
+__psynch_cvwait at /usr/lib/system/libsystem_kernel.dylib (unknown line)
+unknown function (ip: 0xffffffffffffffff)
+_ZNK4llvm12DenseMapBaseINS_8DenseMapINS_5APIntENSt3__110unique_ptrINS_11ConstantIntENS3_14default_deleteIS5_EEEENS_20DenseMapAPIntKeyInfoENS_6detail12DenseMapPairIS2_S8_EEEES2_S8_S9_SC_E15LookupBucketForIS2_EEbRKT_RPKSC_ at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN4llvm11ConstantInt3getERNS_11LLVMContextERKNS_5APIntE at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN4llvm12SelectionDAG11getConstantEyRKNS_5SDLocENS_3EVTEbb at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN12_GLOBAL__N_115X86DAGToDAGISel18getAddressOperandsERNS_18X86ISelAddressModeERKN4llvm5SDLocERNS3_7SDValueES8_S8_S8_S8_ at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN12_GLOBAL__N_115X86DAGToDAGISel10selectAddrEPN4llvm6SDNodeENS1_7SDValueERS4_S5_S5_S5_S5_ at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN12_GLOBAL__N_115X86DAGToDAGISel19CheckComplexPatternEPN4llvm6SDNodeES3_NS1_7SDValueEjRNS1_15SmallVectorImplINSt3__14pairIS4_S3_EEEE at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN4llvm16SelectionDAGISel16SelectCodeCommonEPNS_6SDNodeEPKhj at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN12_GLOBAL__N_115X86DAGToDAGISel6SelectEPN4llvm6SDNodeE at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN4llvm16SelectionDAGISel22DoInstructionSelectionEv at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN4llvm16SelectionDAGISel17CodeGenAndEmitDAGEv at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN4llvm16SelectionDAGISel20SelectAllBasicBlocksERKNS_8FunctionE at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN4llvm16SelectionDAGISel20runOnMachineFunctionERNS_15MachineFunctionE at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN12_GLOBAL__N_115X86DAGToDAGISel20runOnMachineFunctionERN4llvm15MachineFunctionE at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN4llvm19MachineFunctionPass13runOnFunctionERNS_8FunctionE at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN4llvm13FPPassManager13runOnFunctionERNS_8FunctionE at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN4llvm13FPPassManager11runOnModuleERNS_6ModuleE at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+_ZN4llvm6legacy15PassManagerImpl3runERNS_6ModuleE at /Applications/Julia-1.1.app/Contents/Resources/julia/lib/julia/libLLVM.dylib (unknown line)
+operator() at /Users/osx/buildbot/slave/package_osx64/build/src/jitlayers.cpp:335
+addModule at /Users/osx/buildbot/slave/package_osx64/build/usr/include/llvm/ExecutionEngine/Orc/IRCompileLayer.h:57
+addModule at /Users/osx/buildbot/slave/package_osx64/build/src/jitlayers.cpp:454
+jl_add_to_ee at /Users/osx/buildbot/slave/package_osx64/build/src/jitlayers.cpp:679 [inlined]
+jl_finalize_function at /Users/osx/buildbot/slave/package_osx64/build/src/jitlayers.cpp:687
+getAddressForFunction at /Users/osx/buildbot/slave/package_osx64/build/src/codegen.cpp:1281
+jl_generate_fptr at /Users/osx/buildbot/slave/package_osx64/build/src/codegen.cpp:1388
+jl_fptr_trampoline at /Users/osx/buildbot/slave/package_osx64/build/src/gf.c:1863
+jl_apply at /Users/osx/buildbot/slave/package_osx64/build/src/./julia.h:1571 [inlined]
+jl_f__apply at /Users/osx/buildbot/slave/package_osx64/build/src/builtins.c:556
+TaskThunk at /Users/Pereiro/.julia/packages/Revise/AMRie/src/types.jl:229
+jl_fptr_trampoline at /Users/osx/buildbot/slave/package_osx64/build/src/gf.c:1864
+jl_apply at /Users/osx/buildbot/slave/package_osx64/build/src/./julia.h:1571 [inlined]
+start_task at /Users/osx/buildbot/slave/package_osx64/build/src/task.c:572
+unknown function (ip: 0xffffffffffffffff)
+Allocations: 5574912 (Pool: 5573465; Big: 1447); GC: 11
+
+signal (15): Terminated: 15
+in expression starting at /Users/Pereiro/.julia/config/startup.jl:4
+__psynch_cvwait at /usr/lib/system/libsystem_kernel.dylib (unknown line)
+unknown function (ip: 0xffffffffffffffff)
+__psynch_cvwait at /usr/lib/system/libsystem_kernel.dylib (unknown line)
+unknown function (ip: 0xffffffffffffffff)
+__psynch_cvwait at /usr/lib/system/libsystem_kernel.dylib (unknown line)
+unknown function (ip: 0xffffffffffffffff)
+_platform_memmove$VARIANT$Haswell at /usr/lib/system/libsystem_platform.dylib (unknown line)
+unknown function (ip: 0xffffffffffffffff)
+Allocations: 248303 (Pool: 248273; Big: 30); GC: 0
