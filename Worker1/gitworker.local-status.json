@@ -2,19 +2,19 @@
     "Worker1/REPL": {
         "kill_sign_state": {
             "value": false,
-            "update_date": "2020-07-14T12:10:48.941",
+            "update_date": "2020-07-14T12:10:58.012",
             "info": "kill_sign != kill"
         },
         "execution_state": {
-            "value": false,
-            "update_date": "2020-07-14T12:10:48.941",
-            "info": "exe_order <= last_exe_order",
-            "last_exe_order": 14
+            "value": true,
+            "update_date": "2020-07-14T12:10:58.012",
+            "info": "exe_order > last_exe_order, run Forrest run!!!",
+            "last_exe_order": 15
         },
         "running_state": {
             "pid": null,
             "value": false,
-            "update_date": "2020-07-14T12:10:48.94",
+            "update_date": "2020-07-14T12:10:58.012",
             "info": "No process pid request succeeded"
         }
     }
