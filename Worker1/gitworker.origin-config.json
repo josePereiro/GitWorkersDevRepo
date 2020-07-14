@@ -1,19 +1,19 @@
 {
     "push_token": {
-        "value": false,
-        "info": "Sent by master",
-        "update_date": "2020-07-14T12:37:01.089"
+        "value": true,
+        "info": "Master order: execute task!!",
+        "update_date": "2020-07-14T18:08:46.712"
     },
     "Worker1/REPL": {
         "exe_order": {
-            "value": 17,
+            "value": 18,
             "info": "Master order: execute task!!",
-            "update_date": "2020-07-14T12:33:47.762"
+            "update_date": "2020-07-14T18:08:47.266"
         },
         "kill_sign": {
             "value": "not_kill",
             "info": "Master order: execute task!!",
-            "update_date": "2020-07-14T12:33:47.708"
+            "update_date": "2020-07-14T18:08:47.178"
         }
     }
 }
