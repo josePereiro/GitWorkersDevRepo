@@ -3,18 +3,18 @@
         "running_state": {
             "pid": 10774,
             "value": true,
-            "update_date": "2020-07-14T19:23:02.659",
+            "update_date": "2020-07-14T19:23:13.797",
             "info": "Process pid request succeeded"
         },
         "execution_state": {
             "value": false,
-            "update_date": "2020-07-14T19:23:02.432",
+            "update_date": "2020-07-14T19:23:13.623",
             "info": "exe_order <= last_exe_order",
             "last_exe_order": 19
         },
         "kill_sign_state": {
             "value": false,
-            "update_date": "2020-07-14T19:23:02.432",
+            "update_date": "2020-07-14T19:23:13.622",
             "info": "kill_sign != kill"
         }
     }
