@@ -1,8 +1,8 @@
 {
     "push_token": {
-        "value": true,
-        "info": "Master order: execute task!!",
-        "update_date": "2020-07-14T11:56:08.639"
+        "value": false,
+        "info": "Sent by master",
+        "update_date": "2020-07-14T11:58:34.338"
     },
     "Worker1/REPL": {
         "exe_order": {
