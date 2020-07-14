@@ -1,4 +1,4 @@
 notebooks
-*-gitworker-copy*
+*-gitworker-copy
 *.ipynb_checkpoints
 *.ipynb
